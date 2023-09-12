@@ -1,0 +1,33 @@
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\bin\Debug\xoxAI.exe.config
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\bin\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\bin\Debug\xoxAI.pdb
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.Form1.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI\xoxAI\obj\Debug\xoxAI.pdb
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\bin\Debug\xoxAI.exe.config
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\bin\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\bin\Debug\xoxAI.pdb
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.Form1.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI - Kopya\xoxAI\obj\Debug\xoxAI.pdb
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\bin\Debug\xoxAI.exe.config
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\bin\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\bin\Debug\xoxAI.pdb
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.Form1.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.exe
+C:\Users\Şafak Şahin\Desktop\xoxAI - while\xoxAI\obj\Debug\xoxAI.pdb
